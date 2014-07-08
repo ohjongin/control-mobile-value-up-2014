@@ -11,7 +11,7 @@ Parse.com 초기 설정하기
  *  Client Key
  
  
-![Screen shot](http://github.com/ohjongin/control-mobile-value-up-2014/parse.com/images/settings-app-key.png)
+![Screen shot](https://github.com/ohjongin/control-mobile-value-up-2014/blob/master/parse.com/images/settings-app-key.png)
 
 
 
